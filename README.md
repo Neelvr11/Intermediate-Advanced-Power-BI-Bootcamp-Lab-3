@@ -98,6 +98,11 @@ In the model view from the properties panel change the cross-filter direction fr
 ![image](https://github.com/user-attachments/assets/80814a3c-276c-4bcb-ad63-b48c9ebca3cd)
 
 
+# Final Output:
+
+![image](https://github.com/user-attachments/assets/7a6c65f5-e933-4dc2-ac4c-bcba6372d676)
+
+
 	
 
 
