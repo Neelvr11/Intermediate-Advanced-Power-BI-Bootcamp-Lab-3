@@ -1,4 +1,4 @@
-# Intermediate-Advanced-Power-BI-Bootcamp-Lab-3
+# Intermediate-Advanced-Power-BI-Bootcamp-Data Model
 Skillsoft - Data Society conducted a 4-day Intermediate/Advanced Power BI Bootcamp.
 
 # Design a Data Model
